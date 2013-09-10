@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the following to your `app/assets/javascripts/application.js`:
+
+    // require jquery.stepy
 
 ## Contributing
 
